@@ -1,0 +1,8 @@
+.cardbox{
+  display: flex;
+  justify-content: space-evenly;
+  margin:10px 0px;
+}
+.cardbox mat-card{
+  width: 24%;
+}

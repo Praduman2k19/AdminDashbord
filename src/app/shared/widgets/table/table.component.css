@@ -1,0 +1,12 @@
+table {
+  width: 100%;
+}
+div{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+mat-card{
+  width: 33%;
+  margin:3px 0px;
+}

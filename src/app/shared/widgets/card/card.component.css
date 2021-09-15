@@ -1,0 +1,11 @@
+::ng-deep .highcharts-credits
+{
+  display: none;
+}
+::ng-deep.highcharts-legend-navigation{
+  display: none;
+}
+::ng-deep.highcharts-legend-nav-inactive{
+  display: none;
+}
+

@@ -1,0 +1,11 @@
+.body{
+  display: flex;
+}
+.body .sidebar{
+  width: 25%;
+  /* background: rgb(226, 221, 221); */
+}
+.body .router-outlet{
+  width: 75%;
+  background: rgb(250, 249, 249);
+}
