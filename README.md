@@ -1,4 +1,6 @@
 # AdminDashbord
+![image](https://user-images.githubusercontent.com/64727650/161413582-7a60f6bf-4333-4a12-8378-8cfebfccdeaf.png)
+![image](https://user-images.githubusercontent.com/64727650/161413599-68c2f50d-b021-4baf-b01c-170e2a731d14.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
 
